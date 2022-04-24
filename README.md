@@ -1,4 +1,4 @@
-# Hallo👋 , Nama Saya Arman 
+# Hallo👋 , Nama Saya Karim
 
 
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
@@ -30,5 +30,5 @@
 
 </details>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ArmanGG01&repo=karman-userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ARMAN0012&repo=karim&theme=dark)
 
